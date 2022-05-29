@@ -1,45 +1,5 @@
 # 99-bottles-oop-summary
-
-# Table of Contents
-
-1.  [99 Bottles of OOP](#orgcdbb47e)
-2.  [pseudo-code](#org1ac524d)
-3.  [wishful-thinking](#orgd10c38f)
-4.  [oop-vs-procedural](#orgd4471fd)
-5.  [data-clump](#org887810b)
-6.  [removing-argument-using-small-changes](#orge8c4bd1)
-7.  [abstract-as-objects](#orga1fb2f6)
-8.  [characteristics-of-code](#org66b8770)
-9.  [creating-abstractions](#orgb4d535f):programmingInstructions:
-10. [consistent-code](#org82db8c8)
-11. [variants](#org47cd9f9)
-12. [changing-code](#org168b791)
-13. [good-tests](#orge6e9c7c)
-14. [coupled-tests](#orgd64122b)
-15. [fake-it-test](#org0818dc6):tdd:
-16. [three-ways-to-pass-tests](#org3a07412):tdd:
-17. [purpose-of-abstractions](#org13d835e)
-18. [making-abstractions-questions](#org0db2da1)
-19. [first-test](#org973ea88):tdd:
-20. [over-planning](#org9d586ac)
-21. [obvious-implementation-test](#org0a243fc)
-22. [tdd-cycle](#org3e0cc34)
-23. [tdd-growth](#org13a45de)
-24. [tdd-process](#orga6faa4c)
-25. [judging-code-questions](#orge92699b)
-26. [good-name](#org65d4192)
-27. [liskov-principle](#org78673a8)
-28. [polymorphism-responsibility](#orgc7bf394)
-29. [ignoring-liskov](#org22e353b)
-30. [code-for-reader](#orgfe48270)
-31. [separating-within-scope](#org8291ce8)
-32. [flocking-rules](#org5a15c61)
-33. [seeking-abstraction](#orgf61a1f1):abstraction:programmingRules:
-34. [wrong-level-abstractions](#orgb38db89)
-35. [cause-of-duplication](#org56f7357)
-
-
-
+## conceptual summary
 <a id="orgcdbb47e"></a>
 
 # [99 Bottles of OOP](https://www.goodreads.com/book/show/54500642-99-bottles-of-oop)
